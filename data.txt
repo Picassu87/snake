@@ -1,0 +1,47 @@
+630,Cassu
+486,Cassu
+417,Player 1
+340,Cassu
+317,Cassu
+312,Player 1
+165,Player 1
+162,Cassu
+153,Player 1
+133,Koo
+117,Kekkonen
+102,Cassu
+64,Cassu
+59,Player 1
+51,Pena
+36,Cassu
+36,Cassu
+27,Pieru
+25,Player 1
+21,Pieru
+15,Cassu
+13,Pieru
+12,Player 1
+12,Player 1
+11,Player 1
+3,Player 1
+3,Player 1
+2,Player 1
+2,Player 1
+2,Player 1
+1,Player 1
+1,Player 1
+1,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
+0,Player 1
